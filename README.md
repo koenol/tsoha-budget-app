@@ -15,7 +15,7 @@ Application features:
 * Users can delete their profile, an account and its data.
 
 Versions:
-- [x] v0.1
+- [x] v0.1 (no github release)
 
 ## Documentation
 * Installation
