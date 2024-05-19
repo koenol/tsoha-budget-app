@@ -1,26 +1,23 @@
-# Budjettisovellus
+# Budget Application
 
-Sovelluksen avulla käyttäjä voi luoda tilin, jolla voidaan seurata tuloja ja menoja. Käyttäjä voi luoda useita tilejä, ja sovellus tarjoaa visuaalisen esityksen tilitiedoista.
+With the application, users can create an account to track their income and expenses. Users can create multiple accounts, and the application provides a visual representation of the account information.
 
-Sovelluksen ominaisuudet:
+Application features:
 
-* Käyttäjä voi kirjautua sisään ja ulos sekä luoda uuden käyttäjätilin.
-* Yhdellä käyttäjällä voi olla useita tilejä.
-* Käyttäjä voi lisätä tulo- ja menotapahtumia tileilleen.
-* Käyttäjä voi tarkastella yksittäisiä tilitapahtumia.
-* Käyttäjä voi muokkaa ja poistaa yksittäisiä tilitapahtumia.
-* Käyttäjälle tarjotaan visuaalinen esitys tilin tiedoista.
-* Käyttäjä pystyy poistamaan tilin ja sen tiedot.
+* Users can log in and out, and create a new user account.
+* A single user can have multiple accounts.
+* Users can add income and expense transactions to their accounts.
+* Users can view individual account transactions.
+* Users can edit and delete account transactions.
+* Users are provided with a visual representation of account information.
+* Users can delete their profile, an account and its data.
 
-## Versiot
-- [] v0.1 Pvm: 19.5.2024
+Versions
+[] v0.1 Date: 19.5.2024
 
-
-
-## Dokumentaatio
-* Asennus
-* Käyttöohje
-
+## Documentation
+* Installation
+* User Guide
 
 
 
