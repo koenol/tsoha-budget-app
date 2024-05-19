@@ -1,3 +1,5 @@
+This application is a project for the University of Helsinki's TKT20019 - Databases and Web Programming course Summer/2024.
+
 # Budget Application
 
 With the application, users can create an account to track their income and expenses. Users can create multiple accounts, and the application provides a visual representation of the account information.
