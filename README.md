@@ -20,6 +20,7 @@ Versions:
 ## Documentation
 * Installation
 * User Guide
+* Dependencies
 
 
 
