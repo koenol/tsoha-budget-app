@@ -13,7 +13,7 @@ Application features:
 * Users can delete their profile, an account and its data.
 
 Versions
-[] v0.1 Date: 19.5.2024
+[] v0.1
 
 ## Documentation
 * Installation
