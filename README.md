@@ -14,9 +14,7 @@ Sovelluksen ominaisuudet:
 
 ## Versiot
 - [] v0.1 Pvm: 19.5.2024
-- [] - Pvm:2.6.2024
-- [] - Pvm: 16.6.2024
-- [] v1.0 Pvm: 30.6.2024
+
 
 
 ## Dokumentaatio
