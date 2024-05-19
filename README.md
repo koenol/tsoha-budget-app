@@ -11,7 +11,7 @@ Application features:
 * Users can add income and expense transactions to their accounts.
 * Users can view details of individual account transactions.
 * Users have the ability to modify and remove individual account transactions.
-* Users receive a visual representation of their account information (income & expenses).
+* Users receive a visual representation of their account information (income & expenses, categorized & uncategorized).
 * Users have the option to delete their data. Three options: profile, account, and all transaction data (hierarchial dependency).
 
 Versions:
