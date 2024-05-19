@@ -12,8 +12,8 @@ Application features:
 * Users are provided with a visual representation of account information.
 * Users can delete their profile, an account and its data.
 
-Versions
-[] v0.1
+Versions:
+- [x] v0.1
 
 ## Documentation
 * Installation
