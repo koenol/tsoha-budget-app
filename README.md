@@ -9,7 +9,7 @@ Application features:
 * Users can log in and out, and create a new user profile.
 * A single user/profile can have multiple accounts.
 * Users can add income and expense transactions to their accounts.
-* Users can view individual account transactions.
+* Users can view details of individual account transactions.
 * Users have the ability to modify and remove individual account transactions.
 * Users receive a visual representation of their account information (income & expenses).
 * Users have the option to delete their data. Three options: profile, account, and all transaction data (hierarchial dependency).
