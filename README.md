@@ -2,17 +2,17 @@ This application is a project for the University of Helsinki's TKT20019 - Databa
 
 # Budget Application
 
-With the application, users can create an account to track their income and expenses. Users can create multiple accounts, and the application provides a visual representation of the account information.
+Using the application, users can create a profile and accounts to monitor their income and expenses. The app offers a visual representation of account income and expenses, which can be categorized for easier tracking.
 
 Application features:
 
-* Users can log in and out, and create a new user account.
-* A single user can have multiple accounts.
+* Users can log in and out, and create a new user profile.
+* A single user/profile can have multiple accounts.
 * Users can add income and expense transactions to their accounts.
 * Users can view individual account transactions.
-* Users can edit and delete account transactions.
-* Users are provided with a visual representation of account information.
-* Users can delete their profile, an account and its data.
+* Users have the ability to modify and remove individual account transactions.
+* Users receive a visual representation of their account information (income & expenses).
+* Users have the option to delete their data. Three options: profile, account, and all transaction data (hierarchial dependency).
 
 Versions:
 - [x] v0.1 (no github release)
